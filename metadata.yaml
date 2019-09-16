@@ -1,0 +1,31 @@
+_repo: Yhdenvertaisuus_60274
+_version: 0.0.1
+alternative_title: Equality. Finnish
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: ''
+gutenberg_issued: '2019-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60274'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Socialism -- Fiction'
+- !lcc 'HX'
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Political fiction'
+- !lcsh 'Utopian fiction'
+- GITenberg
+title: Yhdenvertaisuus
+url: http://www.gutenberg.org/ebooks/60274
